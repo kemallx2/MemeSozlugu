@@ -4,7 +4,10 @@ meme_sozlugu = {
             "ROFL": "ROFL bir şakaya karşılıktır, LOL gibidir"
             "SHEESH": "Onaylamamak",
             "CREEPY": "Korkunç",
-            "AGGRO": "Agresifleşme/Sinirlenme"
+            "BTW": "Ayrıca",
+            "OMG": "Aman Tanrım",
+            "NGL": "Yalan Söylemeyeceğim",
+            "GTG": "Gitmem Gerek"
             }
 
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
